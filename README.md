@@ -1,0 +1,2 @@
+# Emotion-Detection-in-Sheep
+In this study, We have explored multiple methods using transfer learning to assess the best possible way of animal emotion detection and classification. The approach used in our paper is VGG16. We concluded that an emotion detection based on facial feature extraction cannot completely point out the mental state of the animal and is not always correct but it is really useful. We proposed novel ways of exploring into this domain by stating future perspective and challenges.
